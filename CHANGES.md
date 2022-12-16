@@ -1,5 +1,9 @@
 # Version History
 
+## 3.7.2
+
+* Updated to Emoji 14.0 (emoji-data v14.0.0)
+
 ## 3.7.1 - 2022-03-??
 
 * Detect when an invalid value is set for img_set and throw an exception - https://github.com/iamcal/js-emoji/issues/153
