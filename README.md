@@ -1,7 +1,7 @@
 # js-emoji - Display emoji in the browser, everywhere
 
-<span class="badge-npmversion"><a href="https://npmjs.org/package/emoji-js" title="View this project on NPM"><img src="https://img.shields.io/npm/v/emoji-js.svg" alt="NPM version" /></a></span>
-<span class="badge-npmdownloads"><a href="https://npmjs.org/package/emoji-js" title="View this project on NPM"><img src="https://img.shields.io/npm/dm/emoji-js.svg" alt="NPM downloads" /></a></span>
+<span class="badge-npmversion"><a href="https://www.npmjs.com/package/@xiaogaozi/emoji-js" title="View this project on NPM"><img src="https://img.shields.io/npm/v/@xiaogaozi/emoji-js.svg" alt="NPM version" /></a></span>
+<span class="badge-npmdownloads"><a href="https://www.npmjs.com/package/@xiaogaozi/emoji-js" title="View this project on NPM"><img src="https://img.shields.io/npm/dm/@xiaogaozi/emoji-js.svg" alt="NPM downloads" /></a></span>
 [![Build Status](https://github.com/iamcal/js-emoji/actions/workflows/build.yml/badge.svg)](https://github.com/iamcal/js-emoji/actions)
 [![Coverage Status](https://coveralls.io/repos/iamcal/js-emoji/badge.svg)](https://coveralls.io/r/iamcal/js-emoji)
 
